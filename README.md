@@ -215,7 +215,7 @@ translate("مرحبا بك في مصر")
 
 ## 👨‍💻 Author
 
-**Joox** - ** Ahmed **
+**Joox** - **Ahmed**
 - IoT & AI Developer @ VoltX
 - CS Student @ Helwan University '27
 
