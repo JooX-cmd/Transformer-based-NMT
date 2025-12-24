@@ -1,0 +1,35 @@
+# Data files
+*.txt
+data/*
+!data/.gitkeep
+
+# Model checkpoints
+*.pt
+*.pth
+models/*
+!models/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
