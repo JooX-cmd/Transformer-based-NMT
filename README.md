@@ -190,15 +190,7 @@ translate("مرحبا بك في مصر")
 9. Inference with Beam Search
 ```
 
-## 📈 Results
 
-| Metric | Score |
-|--------|-------|
-| Training Loss | ~ |
-| Validation Loss | ~ |
-| BLEU Score | ~ |
-
-*Results depend on dataset size and training duration*
 
 ## 🔍 Example Translations
 
